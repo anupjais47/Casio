@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="colorPrimary">#AF82EF</item>
+    <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+    <item name="colorAccent">#4DD0E1</item>
+</style>
+
+<style name="splashtheme" parent="Theme.AppCompat.NoActionBar">
+    <item name="android:windowBackground">@drawable/splash_background</item>
+</style>
+
+</resources>
